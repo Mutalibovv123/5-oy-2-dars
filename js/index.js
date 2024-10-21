@@ -123,19 +123,29 @@
 // }
 
 // 3-masala
+// function convertJAvascriptToJs(massive) {
+//     for (let i = 0; i < massive.length; i++) {
+//       if (massive[i] === "Javascript") { 
+//         massive[i] = 'JS'; 
+//       } 
+//     }
+//     return massive; 
+//   }
 
-function convertJAvascriptToJs(massive) {
-    for (let i = 0; i < massive.length; i++) {
-        if (massive[i] == "Javascript") {
-            massive[i] == 'JS'
-        } else {
-            massive[i]
-        }
-    } 
-    return massive
-}
-let arr = [1,2,3,4,5,5,6,6,5,"Javascript"];
-console.log(convertJAvascriptToJs(arr));
+// 4-masala
+// function sozlarniTeskariTartibdaChiqarish(massive) {
+//     return massive.split(" ").reverse().join();
+// }
+
+// 5-masala
+
+// function BoshivaOxirsiniOlibTAshla(massive) {
+//     return massive.trim
+// }
+
+
+
+ 
 
 
 
